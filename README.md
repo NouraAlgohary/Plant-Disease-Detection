@@ -39,8 +39,10 @@
     * Tomato___healthy
 
 ## Resource/Situational Constraints
+* 
 
 ## Process followed
+* gpu
 
 ## ML Code
 
