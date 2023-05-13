@@ -10,6 +10,7 @@ An image classification deep learning model
 [link](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
 **Our Data**
+[Data](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML--Plant-Disease-Detection/blob/main/Data.zip)
 
 **Data Description**
 * **Input**: Image
