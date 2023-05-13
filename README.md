@@ -1,13 +1,15 @@
 # ML--Plant-Disease-Detection
-شرح بنعمل اي
+An image classification deep learning model
 ![download](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML--Plant-Disease-Detection/assets/103903785/b3158200-2ccd-4e69-a197-5e2c0e5e79a8)
 
 ## Requirments
-[Requirments](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML--Plant-Disease-Detection/blob/main/Requirments.txt(
+[Requirments](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML--Plant-Disease-Detection/blob/main/Requirments.txt)
 
 ## Data
 **Data Source**
 [link](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+
+**Our Data**
 
 **Data Description**
 * **Input**: Image
@@ -38,18 +40,17 @@
     * Tomato___Tomato_mosaic_virus
     * Tomato___healthy
 
+## Target
+High Accuracy
+
 ## Resource/Situational Constraints
-* 
+* limited resources
 
 ## Process followed
-* gpu
+* Use free GPU supplied by google colab or kaggle.
+* Use a small dataset with 25 classes related to only five types of plants.
 
 ## ML Code
-
-
-
-
-
 1. Splitting Data:
   Take only five plants to work with. I've splitted train folder into train and val sets with val ratio 0.2 after shuffeling. <br/>
   [Code](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML--Plant-Disease-Detection/blob/main/Splitting_Data.ipynb)
