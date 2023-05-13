@@ -50,6 +50,15 @@ High Accuracy
 * Use a small dataset with 25 classes related to only five types of plants.
 
 ## ML Code
-1. Splitting Data:
+1. Splitting Data
   Take only five plants to work with. I've splitted train folder into train and val sets with val ratio 0.2 after shuffeling. <br/>
   [Code](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML--Plant-Disease-Detection/blob/main/Splitting_Data.ipynb)
+2. Exploring the Data
+3. Data Preprocessing
+      * Rescale
+      * Resize
+      * Data is already augmented
+4. Pretrained Model Choosing
+      * VGG16 (Accuracy = 84%)
+      * MobileNet (Accuracy = 99.4%)
+5. Testing
