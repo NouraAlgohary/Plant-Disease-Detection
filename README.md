@@ -2,17 +2,14 @@
 An image classification deep learning model
 ![download](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML--Plant-Disease-Detection/assets/103903785/b3158200-2ccd-4e69-a197-5e2c0e5e79a8)
 
-## Requirments
-[Requirments](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML--Plant-Disease-Detection/blob/main/Requirments.txt)
+## To Start..
+[**Requirments**](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML--Plant-Disease-Detection/blob/main/Requirments.txt)
 
-## Data
-**Data Source**
-[link](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+[**Data Source**](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
-**Our Data**
-[Data](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML--Plant-Disease-Detection/blob/main/Data.zip)
+[**Our Data**](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML--Plant-Disease-Detection/blob/main/Data.zip)
 
-**Data Description**
+## Data Description
 * **Input**: Image
 * **Output**: Class
     * Apple___Apple_scab
@@ -46,6 +43,7 @@ High Accuracy
 
 ## Resource/Situational Constraints
 * limited resources
+* Long training time
 
 ## Process followed
 * Use free GPU supplied by google colab or kaggle.
